@@ -1,7 +1,7 @@
-
-
-import kotlin.io.readln/*Leer 10 enteros, almacenarlos en un arreglo y determinar en que posicion del arreglo esta el numero
+/*Leer 10 enteros, almacenarlos en un arreglo y determinar en que posicion del arreglo esta el numero
 mayor leido */
+
+import kotlin.io.readln
 
 fun main(){
  
